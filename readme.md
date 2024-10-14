@@ -21,10 +21,10 @@ Untuk versi webnya menggunakan Framework Laravel
 ## Screenshot
 
 - Login
-<img src="https://i.imgur.com/3lfDm0L.png" style="width:100%">
+<img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/masuk.png" style="width:100%">
 
 - Register
-<img src="https://i.imgur.com/vLeOxNn.png" style="width:100%">
+<img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/daftar.png" style="width:100%">
 
 - Dashboard
 <img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/Dashboard.png" style="width:100%">
