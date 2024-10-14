@@ -27,17 +27,20 @@ Untuk versi webnya menggunakan Framework Laravel
 <img src="https://i.imgur.com/vLeOxNn.png" style="width:100%">
 
 - Dashboard
-<img src="https://i.imgur.com/NDK9qua.png" style="width:100%">
+<img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/Dashboard.png" style="width:100%">
 
 - Uang Masuk
-<img src="https://i.imgur.com/MAegGDC.png" style="width:100%">
+<img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/Uangmasuk.png" style="width:100%">
+
+- Uang Keluar
+<img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/uangkeluar.png" style="width:100%">
 
 - Laporan Uang Masuk
-<img src="https://i.imgur.com/aPv4II6.png" style="width:100%">
+<img src="https://github.com/rahmathdyat/uangkas-laravel/blob/master/Screenshot/Laporanuangmasuk.png" style="width:100%">
 
 ## Cara Install
 
-`$ > git clone https://github.com/maulayyacyber/uangku-laravel.git`
+`$ > git clone https://github.com/rahmathdyat/uangkas-laravel`
 
 `$ > cd uangku-laravel`
 
